@@ -1,0 +1,3451 @@
+[
+    {
+        "id": "srch_universalmusic_00602557296785-GBUM71606089",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1479284360/srch_universalmusic_00602557296785-GBUM71606089.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1479284360/srch_universalmusic_00602557296785-GBUM71606089.jpg",
+        "shortUrl": "https://wynk.in/u/qntTPfVCA",
+        "basicShortUrl": "https://wynktube.in/u/qntTPfVCA",
+        "type": "SONG",
+        "title": "Tek Weh Yuh Heart",
+        "exclusive": false,
+        "serverEtag": "e6f3d11d5fed5507fc72e0ef13b00df5",
+        "duration": 225,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602557296785-GBUM71606089.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602557296785-GBUM71606089.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602557296785-GBUM71606089.html",
+        "subtitleId": "sean-paul",
+        "album": "Tek Weh Yuh Heart",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602557296785-GBUM71606089.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602557296785",
+            "title": "Tek Weh Yuh Heart"
+        },
+        "subtitle": "Sean Paul - Tek Weh Yuh Heart",
+        "htData": [
+            {
+                "vcode": "009160100003075",
+                "cutName": "Tek Weh Yuh Heart",
+                "previewUrl": "https://preview-ht.wynk.in/009160100003075.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Tory Lanez,Sean Paul,Anthony St Aubyn Kelly,Tek Weh Yuh Heart",
+        "artist": {
+            "id": "sean-paul",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1517562998441",
+            "title": "Sean Paul",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "sean-paul",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1517562998441",
+                "title": "Sean Paul",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+            },
+            {
+                "id": "tory-lanez",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Tory Lanez"
+            }
+        ],
+        "label": "℗ 2016 SPJ Productions Ltd, under exclusive licence to Island Records, a division of Universal Music Operations Limited",
+        "publisher": "℗ 2016 SPJ Productions Ltd, under exclusive licence to Island Records, a division of Universal Music Operations Limited",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_universalmusic_00602537850723-GBUM71401975",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_universalmusic_00602537850723-GBUM71401975.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_universalmusic_00602537850723-GBUM71401975.jpg",
+        "shortUrl": "https://wynk.in/u/6rVCBoTST",
+        "basicShortUrl": "https://wynktube.in/u/6rVCBoTST",
+        "type": "SONG",
+        "title": "Bailando",
+        "exclusive": false,
+        "serverEtag": "8b1f98ade01265050b7d087429c4fdd6",
+        "duration": 242,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602537850723-GBUM71401975.html",
+        "cues": [
+            ""
+        ],
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602537850723-GBUM71401975.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602537850723-GBUM71401975.html",
+        "subtitleId": "enrique-iglesias",
+        "album": "Bailando",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602537850723-GBUM71401975.html?performance_test=true?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602537850723",
+            "title": "Bailando"
+        },
+        "subtitle": "Enrique Iglesias - Bailando",
+        "htData": [
+            {
+                "vcode": "009141600008080",
+                "cutName": "Bailando English Version",
+                "previewUrl": "https://preview-ht.wynk.in/009141600008080.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Gente De Zona,Enrique Iglesias,Sean Paul,Bailando,Descemer Bueno",
+        "artist": {
+            "id": "enrique-iglesias",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1396267616835",
+            "title": "Enrique Iglesias",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Screen%20Shot%202014-03-31%20at%2017.45.53.png"
+        },
+        "singers": [
+            {
+                "id": "enrique-iglesias",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1396267616835",
+                "title": "Enrique Iglesias",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Screen%20Shot%202014-03-31%20at%2017.45.53.png"
+            },
+            {
+                "id": "sean-paul",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1517562998441",
+                "title": "Sean Paul",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+            },
+            {
+                "id": "descemer-bueno",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Descemer Bueno"
+            },
+            {
+                "id": "gente-de-zona",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Gente De Zona"
+            }
+        ],
+        "label": "℗ 2014 Universal International Music B.V.",
+        "lyricists": [],
+        "actors": [],
+        "publisher": "℗ 2014 Universal International Music B.V.",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_A10302B0001414354D",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/thumbnail/srch_timewarner_A10302B0001414354D.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/thumbnail/srch_timewarner_A10302B0001414354D.jpg",
+        "shortUrl": "https://wynk.in/u/r84TgJ0DY",
+        "basicShortUrl": "https://wynktube.in/u/r84TgJ0DY",
+        "type": "SONG",
+        "title": "Got 2 Luv U",
+        "exclusive": false,
+        "serverEtag": "680cf9e73c3be158dc660aa95e624c8f",
+        "duration": 196,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_A10302B0001414354D.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_A10302B0001414354D.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_A10302B0001414354D.html",
+        "subtitleId": "sean-paul",
+        "album": "Tomahawk Technique",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_A10302B0001414354D.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_075679966513",
+            "title": "Tomahawk Technique"
+        },
+        "subtitle": "Sean Paul - Tomahawk Technique",
+        "htData": [
+            {
+                "vcode": "009144300005242",
+                "cutName": "Got 2 Luv U",
+                "previewUrl": "https://preview-ht.wynk.in/009144300005242.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Got 2 Luv U,Sean Paul,Tomahawk Technique",
+        "artist": {
+            "id": "sean-paul",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Sean Paul"
+        },
+        "singers": [
+            {
+                "id": "sean-paul",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Sean Paul"
+            }
+        ],
+        "label": "VP/Atlantic Records",
+        "publisher": "VP/Atlantic Records",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_A10302B0001564569P",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/thumbnail/srch_timewarner_A10302B0001564569P.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/thumbnail/srch_timewarner_A10302B0001564569P.jpg",
+        "shortUrl": "https://wynk.in/u/BVktA2dwN",
+        "basicShortUrl": "https://wynktube.in/u/BVktA2dwN",
+        "type": "SONG",
+        "title": "She Doesn't Mind",
+        "exclusive": false,
+        "serverEtag": "2fce103fd6fb529641e9712178cf1d77",
+        "duration": 224,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_A10302B0001564569P.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_A10302B0001564569P.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_A10302B0001564569P.html",
+        "subtitleId": "sean-paul",
+        "album": "She Doesn't Mind",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_A10302B0001564569P.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_075679962294",
+            "title": "She Doesn't Mind"
+        },
+        "subtitle": "Sean Paul - She Doesn't Mind",
+        "htData": [
+            {
+                "vcode": "009144300006133",
+                "cutName": "She Doesnt Mind Gk Radio Edit",
+                "previewUrl": "https://preview-ht.wynk.in/009144300006133.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Sean Paul,She Doesn't Mind",
+        "artist": {
+            "id": "sean-paul",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1517562998441",
+            "title": "Sean Paul",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "sean-paul",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1517562998441",
+                "title": "Sean Paul",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+            }
+        ],
+        "label": "VP/Atlantic Records",
+        "publisher": "VP/Atlantic Records",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_A10302B0000071310M",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/thumbnail/srch_timewarner_A10302B0000071310M.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/thumbnail/srch_timewarner_A10302B0000071310M.jpg",
+        "shortUrl": "https://wynk.in/u/fqm4bEUgS",
+        "basicShortUrl": "https://wynktube.in/u/fqm4bEUgS",
+        "type": "SONG",
+        "title": "We Be Burnin'",
+        "exclusive": false,
+        "serverEtag": "54deae402069ec00997a56185e283cce",
+        "duration": 215,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_A10302B0000071310M.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_A10302B0000071310M.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_A10302B0000071310M.html",
+        "subtitleId": "sean-paul",
+        "album": "We Be Burnin'",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_A10302B0000071310M.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_075679397966",
+            "title": "We Be Burnin'"
+        },
+        "subtitle": "Sean Paul - We Be Burnin'",
+        "htData": [
+            {
+                "vcode": "009121200004815",
+                "cutName": "We Be Burnin Recognize It",
+                "previewUrl": "https://preview-ht.wynk.in/009121200004815.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "artist": {
+            "id": "sean-paul",
+            "type": "ARTIST",
+            "isCurated": true,
+            "title": "Sean Paul",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "sean-paul",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Sean Paul",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+            }
+        ],
+        "label": "Atlantic Records",
+        "publisher": "Atlantic Records",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0008806366X",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0008806366X.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0008806366X.jpg",
+        "shortUrl": "https://wynk.in/u/gQB2swxEd",
+        "basicShortUrl": "https://wynktube.in/u/gQB2swxEd",
+        "type": "SONG",
+        "title": "Just Got Paid",
+        "exclusive": false,
+        "serverEtag": "d8f9327ac403bffa6f1b2c6c5992b87d",
+        "duration": 218,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0008806366X.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0008806366X.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0008806366X.html",
+        "subtitleId": "sigala",
+        "album": "Just Got Paid",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0008806366X.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_886447282380",
+            "title": "Just Got Paid"
+        },
+        "subtitle": "Sigala - Just Got Paid",
+        "htData": [
+            {
+                "vcode": "009165900009015",
+                "cutName": "Just Got Paid",
+                "previewUrl": "https://preview-ht.wynk.in/009165900009015.wav"
+            },
+            {
+                "vcode": "009165900009006",
+                "cutName": "I Should Grow Up Just Got Paid",
+                "previewUrl": "https://preview-ht.wynk.in/009165900009006.wav"
+            },
+            {
+                "vcode": "009165900009066",
+                "cutName": "Every Days A Holiday Just Got Paid",
+                "previewUrl": "https://preview-ht.wynk.in/009165900009066.wav"
+            },
+            {
+                "vcode": "009165900009032",
+                "cutName": "We Like To Party Just Got Paid",
+                "previewUrl": "https://preview-ht.wynk.in/009165900009032.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "French Montana,Just Got Paid,Ella Eyre,Meghan Trainor,Sigala",
+        "artist": {
+            "id": "sigala",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1534760810064",
+            "title": "Sigala",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Sigala-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "sigala",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1534760810064",
+                "title": "Sigala",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Sigala-300x300.png"
+            },
+            {
+                "id": "ella-eyre",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Ella Eyre"
+            },
+            {
+                "id": "meghan-trainor",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1493105002153",
+                "title": "Meghan Trainor",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Meghan-Trainor-300x300.png"
+            },
+            {
+                "id": "french-montana",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1502276598911",
+                "title": "French Montana",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/angele-300x300.png"
+            }
+        ],
+        "label": "Ministry of Sound Recordings",
+        "publisher": "Ministry of Sound Recordings",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_universalmusic_00602567367109-GBUM71706530",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1515547690/srch_universalmusic_00602567367109-GBUM71706530.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1515547690/srch_universalmusic_00602567367109-GBUM71706530.jpg",
+        "shortUrl": "https://wynk.in/u/Pn29CU29s",
+        "basicShortUrl": "https://wynktube.in/u/Pn29CU29s",
+        "type": "SONG",
+        "title": "Hurtin' Me-The Remix",
+        "exclusive": false,
+        "serverEtag": "3eee107580d34ac281657986643fb197",
+        "duration": 241,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602567367109-GBUM71706530.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602567367109-GBUM71706530.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602567367109-GBUM71706530.html",
+        "subtitleId": "stefflon-don",
+        "album": "Hurtin' Me-The Remix",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602567367109-GBUM71706530.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602567367109",
+            "title": "Hurtin' Me-The Remix"
+        },
+        "subtitle": "Stefflon Don - Hurtin' Me-The Remix",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "artist": {
+            "id": "stefflon-don",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Stefflon Don"
+        },
+        "singers": [
+            {
+                "id": "stefflon-don",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Stefflon Don"
+            },
+            {
+                "id": "sean-paul",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Sean Paul"
+            },
+            {
+                "id": "popcaan",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Popcaan"
+            },
+            {
+                "id": "sizzla",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Sizzla"
+            }
+        ],
+        "label": "A Polydor Records Recording; ℗ 2018 54 London Limited, under exclusive licence to Universal Music Operations Limited",
+        "publisher": "A Polydor Records Recording; ℗ 2018 54 London Limited, under exclusive licence to Universal Music Operations Limited",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_universalmusic_00602537783960-GBUM71401088",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_universalmusic_00602537783960-GBUM71401088.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_universalmusic_00602537783960-GBUM71401088.jpg",
+        "shortUrl": "https://wynk.in/u/RuH7M6UO9",
+        "basicShortUrl": "https://wynktube.in/u/RuH7M6UO9",
+        "type": "SONG",
+        "title": "Fancy",
+        "exclusive": false,
+        "serverEtag": "cf786bbfa594b68e4996927a36cea43a",
+        "duration": 200,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602537783960-GBUM71401088.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602537783960-GBUM71401088.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602537783960-GBUM71401088.html",
+        "subtitleId": "iggy-azalea",
+        "album": "The New Classic",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602537783960-GBUM71401088.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602537783960",
+            "title": "The New Classic"
+        },
+        "subtitle": "Iggy Azalea - The New Classic",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Charli XCX,Fancy,Iggy Azalea,The New Classic",
+        "artist": {
+            "id": "iggy-azalea",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Iggy Azalea"
+        },
+        "singers": [
+            {
+                "id": "iggy-azalea",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Iggy Azalea"
+            },
+            {
+                "id": "charli-xcx",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Charli XCX"
+            }
+        ],
+        "label": "℗ 2014 Virgin EMI Records, a division of Universal Music Operations Limited",
+        "publisher": "℗ 2014 Virgin EMI Records, a division of Universal Music Operations Limited",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_hungama_2231527",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/update/1457417408/srch_hungama_2231527.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/update/1457417408/srch_hungama_2231527.jpg",
+        "shortUrl": "https://wynk.in/u/RnrKilAMl",
+        "basicShortUrl": "https://wynktube.in/u/RnrKilAMl",
+        "type": "SONG",
+        "title": "Natural Mystic",
+        "exclusive": false,
+        "serverEtag": "423f6b70273677e72d0317feb24e7a0b",
+        "duration": 205,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_hungama_2231527.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_hungama_2231527.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_hungama_2231527.html",
+        "subtitleId": "bob-marley-the-wailers",
+        "album": "Gold",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_hungama_2231527.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602498268308",
+            "title": "Gold"
+        },
+        "subtitle": "Bob Marley The Wailers - Gold",
+        "htData": [
+            {
+                "vcode": "009120600000890",
+                "cutName": "Natural Mystic",
+                "previewUrl": "https://preview-ht.wynk.in/009120600000890.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Gold,Natural Mystic,Bob Marley,Bob Marley The Wailers",
+        "artist": {
+            "id": "bob-marley-the-wailers",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Bob Marley The Wailers"
+        },
+        "singers": [
+            {
+                "id": "bob-marley-the-wailers",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Bob Marley The Wailers"
+            }
+        ],
+        "label": "℗ 1977 The Island Def Jam Music Group",
+        "lyricists": [
+            {
+                "id": "bob-marley-the-wailers",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Bob Marley The Wailers"
+            }
+        ],
+        "actors": [
+            {
+                "id": "bob-marley-the-wailers",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Bob Marley The Wailers"
+            }
+        ],
+        "publisher": "℗ 1977 The Island Def Jam Music Group",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_universalmusic_00602547844385-GBUM71601262",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1456294495/srch_universalmusic_00602547844385-GBUM71601262.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1456294495/srch_universalmusic_00602547844385-GBUM71601262.jpg",
+        "shortUrl": "https://wynk.in/u/M2I75CAlS",
+        "basicShortUrl": "https://wynktube.in/u/M2I75CAlS",
+        "type": "SONG",
+        "title": "What A Night",
+        "exclusive": false,
+        "serverEtag": "327540aff8da37f304022b39e4999aac",
+        "duration": 184,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "http://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602547844385-GBUM71601262.html",
+        "purchaseUrl": "http://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602547844385-GBUM71601262.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "http://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602547844385-GBUM71601262.html",
+        "subtitleId": "kat-deluna",
+        "album": "What A Night",
+        "ostreamingUrl": "http://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602547844385-GBUM71601262.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602547844385",
+            "title": "What A Night"
+        },
+        "subtitle": "Kat Deluna - What A Night",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "artist": {
+            "id": "kat-deluna",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kat Deluna"
+        },
+        "singers": [
+            {
+                "id": "kat-deluna",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kat Deluna"
+            },
+            {
+                "id": "jeremih",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Jeremih"
+            }
+        ],
+        "label": "℗ 2016 Island Records, a division of Universal Music Operations Limited",
+        "publisher": "℗ 2016 Island Records, a division of Universal Music Operations Limited",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0000184322S",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0000184322S.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0000184322S.jpg",
+        "shortUrl": "https://wynk.in/u/XqnHWagvj",
+        "basicShortUrl": "https://wynktube.in/u/XqnHWagvj",
+        "type": "SONG",
+        "title": "Bye Bye Bye",
+        "exclusive": false,
+        "serverEtag": "991a42696ae1c98d037f26a3d78fad4b",
+        "duration": 199,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0000184322S.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0000184322S.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0000184322S.html",
+        "subtitleId": "n-sync",
+        "album": "Greatest Hits",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0000184322S.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_886973282021",
+            "title": "Greatest Hits"
+        },
+        "subtitle": "N Sync - Greatest Hits",
+        "htData": [
+            {
+                "vcode": "009124900001131",
+                "cutName": "Bye Bye Bye",
+                "previewUrl": "https://preview-ht.wynk.in/009124900001131.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "N Sync,Greatest Hits,Bye Bye Bye",
+        "artist": {
+            "id": "n-sync",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "N Sync"
+        },
+        "singers": [
+            {
+                "id": "n-sync",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "N Sync"
+            }
+        ],
+        "label": "Jive/Legacy",
+        "publisher": "Jive/Legacy",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0005441492N",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0005441492N.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0005441492N.jpg",
+        "shortUrl": "https://wynk.in/u/fAREZfpyY",
+        "basicShortUrl": "https://wynktube.in/u/fAREZfpyY",
+        "type": "SONG",
+        "title": "Winner",
+        "exclusive": false,
+        "serverEtag": "487e9898ed6a725dd2238e5bdc6ef71d",
+        "duration": 242,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0005441492N.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0005441492N.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0005441492N.html",
+        "subtitleId": "jamie-foxx",
+        "album": "Best Night Of My Life",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0005441492N.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_884977231328",
+            "title": "Best Night Of My Life"
+        },
+        "subtitle": "Jamie Foxx - Best Night Of My Life",
+        "htData": [
+            {
+                "vcode": "009164700004699",
+                "cutName": "Winner",
+                "previewUrl": "https://preview-ht.wynk.in/009164700004699.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Best Night Of My Life,Jamie Foxx,TI,Justin Timberlake,T I,Winner",
+        "artist": {
+            "id": "jamie-foxx",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Jamie Foxx"
+        },
+        "singers": [
+            {
+                "id": "jamie-foxx",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Jamie Foxx"
+            },
+            {
+                "id": "ti",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "TI"
+            },
+            {
+                "id": "justin-timberlake",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1401103061260",
+                "title": "Justin Timberlake",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/justintimberlake-300x300.png"
+            },
+            {
+                "id": "t-i",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "T I"
+            }
+        ],
+        "label": "J Records",
+        "publisher": "J Records",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E00024188855",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/update/1578432305940/srch_sonymusic_A10328E00024188855.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/update/1578432305940/srch_sonymusic_A10328E00024188855.jpg",
+        "shortUrl": "https://wynk.in/u/9C8YvLDAy",
+        "basicShortUrl": "https://wynktube.in/u/9C8YvLDAy",
+        "type": "SONG",
+        "title": "Losing My Way",
+        "exclusive": false,
+        "serverEtag": "08c6ff998d202658febf3f459747c56e",
+        "duration": 322,
+        "formats": [
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E00024188855.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E00024188855.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E00024188855.html",
+        "subtitleId": "justin-timberlake",
+        "album": "FutureSex/LoveSounds Deluxe Edition",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E00024188855.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_888880422095",
+            "title": "FutureSex/LoveSounds Deluxe Edition"
+        },
+        "subtitle": "Justin Timberlake - FutureSex/LoveSounds Deluxe Edition",
+        "htData": [
+            {
+                "vcode": "009164700004979",
+                "cutName": "Losing My Way",
+                "previewUrl": "https://preview-ht.wynk.in/009164700004979.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Losing My Way,Justin Timberlake,FutureSex/LoveSounds Deluxe Edition",
+        "artist": {
+            "id": "justin-timberlake",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1401103061260",
+            "title": "Justin Timberlake",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/justintimberlake-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "justin-timberlake",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1401103061260",
+                "title": "Justin Timberlake",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/justintimberlake-300x300.png"
+            }
+        ],
+        "label": "Jive",
+        "publisher": "Jive",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0000184325M",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0000184325M.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0000184325M.jpg",
+        "shortUrl": "https://wynk.in/u/tzWTT7jes",
+        "basicShortUrl": "https://wynktube.in/u/tzWTT7jes",
+        "type": "SONG",
+        "title": "It's Gonna Be Me",
+        "exclusive": false,
+        "serverEtag": "6ed4a5c2b63b4098f339b0312a71b9bc",
+        "duration": 191,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0000184325M.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0000184325M.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0000184325M.html",
+        "subtitleId": "n-sync",
+        "album": "Greatest Hits",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0000184325M.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_886973282021",
+            "title": "Greatest Hits"
+        },
+        "subtitle": "N Sync - Greatest Hits",
+        "htData": [
+            {
+                "vcode": "009124900001255",
+                "cutName": "Its Gonna Be Me",
+                "previewUrl": "https://preview-ht.wynk.in/009124900001255.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "It's Gonna Be Me,N Sync,Greatest Hits",
+        "artist": {
+            "id": "n-sync",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "N Sync"
+        },
+        "singers": [
+            {
+                "id": "n-sync",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "N Sync"
+            }
+        ],
+        "label": "Jive/Legacy",
+        "publisher": "Jive/Legacy",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0002079206N",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0002079206N.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0002079206N.jpg",
+        "shortUrl": "https://wynk.in/u/mjlJPzPyw",
+        "basicShortUrl": "https://wynktube.in/u/mjlJPzPyw",
+        "type": "SONG",
+        "title": "Like I Love You",
+        "exclusive": false,
+        "serverEtag": "f0bb74efbf20fcf106559c0b00eba598",
+        "duration": 283,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0002079206N.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0002079206N.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0002079206N.html",
+        "subtitleId": "justin-timberlake",
+        "album": "Justified",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0002079206N.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_012414182326",
+            "title": "Justified"
+        },
+        "subtitle": "Justin Timberlake - Justified",
+        "htData": [
+            {
+                "vcode": "009172100009619",
+                "cutName": "Like I Love You",
+                "previewUrl": "https://preview-ht.wynk.in/009172100009619.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Pharrell Williams,Like I Love You,Justified,Justin Timberlake",
+        "artist": {
+            "id": "justin-timberlake",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Justin Timberlake"
+        },
+        "singers": [
+            {
+                "id": "justin-timberlake",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Justin Timberlake"
+            }
+        ],
+        "label": "Jive",
+        "publisher": "Jive",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0002057153I",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0002057153I.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0002057153I.jpg",
+        "shortUrl": "https://wynk.in/u/Mq50dEiuB",
+        "basicShortUrl": "https://wynktube.in/u/Mq50dEiuB",
+        "type": "SONG",
+        "title": "Tearin' up My Heart",
+        "exclusive": false,
+        "serverEtag": "48e60d622aa7ba28eb87a50c2b6f5795",
+        "duration": 209,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "http://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0002057153I.html",
+        "purchaseUrl": "http://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0002057153I.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "http://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0002057153I.html",
+        "subtitleId": "n-sync",
+        "album": "'N Sync UK Version",
+        "ostreamingUrl": "http://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0002057153I.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_743216819027",
+            "title": "'N Sync UK Version"
+        },
+        "subtitle": "N Sync - 'N Sync UK Version",
+        "htData": [
+            {
+                "vcode": "009144200007301",
+                "cutName": "Tearin My Heart",
+                "previewUrl": "https://preview-ht.wynk.in/009144200007301.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "artist": {
+            "id": "n-sync",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "N Sync"
+        },
+        "singers": [
+            {
+                "id": "n-sync",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "N Sync"
+            }
+        ],
+        "label": "Northwestside Records",
+        "publisher": "Northwestside Records",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_monstercat_859725302315_CA6D21700322",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859725302315_CA6D21700322.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859725302315_CA6D21700322.jpg",
+        "shortUrl": "https://wynk.in/u/DyupV7lZP",
+        "basicShortUrl": "https://wynktube.in/u/DyupV7lZP",
+        "type": "SONG",
+        "title": "Sky Is Falling (feat. EMEL)",
+        "exclusive": false,
+        "serverEtag": "0a0601d65308b117a2c0723a2e276495",
+        "duration": 225,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_monstercat_859725302315_CA6D21700322.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_monstercat_859725302315_CA6D21700322.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_monstercat_859725302315_CA6D21700322.html",
+        "subtitleId": "darren-styles",
+        "album": "Monstercat Uncaged Vol. 4",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_monstercat_859725302315_CA6D21700322.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_monstercat_859725302315",
+            "title": "Monstercat Uncaged Vol. 4"
+        },
+        "subtitle": "Darren Styles - Monstercat Uncaged Vol. 4",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Darren Styles,Monstercat Uncaged Vol. 4,Sky Is Falling (feat. EMEL),Stonebank",
+        "artist": {
+            "id": "darren-styles",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Darren Styles"
+        },
+        "singers": [
+            {
+                "id": "darren-styles",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Darren Styles"
+            },
+            {
+                "id": "stonebank",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Stonebank"
+            }
+        ],
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_monstercat_859717655573_CA6D21600180",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859717655573_CA6D21600180.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859717655573_CA6D21600180.jpg",
+        "shortUrl": "https://wynk.in/u/diUnTKR0L",
+        "basicShortUrl": "https://wynktube.in/u/diUnTKR0L",
+        "type": "SONG",
+        "title": "Lift You Up (feat. EMEL)",
+        "exclusive": false,
+        "serverEtag": "afe7ed3cd032f038533d7f3f8f03af70",
+        "duration": 307,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_monstercat_859717655573_CA6D21600180.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_monstercat_859717655573_CA6D21600180.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_monstercat_859717655573_CA6D21600180.html",
+        "subtitleId": "stonebank",
+        "album": "Lift You Up (feat. EMEL)",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_monstercat_859717655573_CA6D21600180.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_monstercat_859717655573",
+            "title": "Lift You Up (feat. EMEL)"
+        },
+        "subtitle": "Stonebank - Lift You Up (feat. EMEL)",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "artist": {
+            "id": "stonebank",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Stonebank"
+        },
+        "singers": [
+            {
+                "id": "stonebank",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Stonebank"
+            }
+        ],
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_190295745844_A10302B0004081153A",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_190295745844_A10302B0004081153A.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_190295745844_A10302B0004081153A.jpg",
+        "shortUrl": "https://wynk.in/u/DyllVtOeK",
+        "basicShortUrl": "https://wynktube.in/u/DyllVtOeK",
+        "type": "SONG",
+        "title": "Symphony (feat. Zara Larsson)-Dash Berlin Remix",
+        "exclusive": false,
+        "serverEtag": "9455aa458c2c2071ccc379c69e7a4764",
+        "duration": 184,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_190295745844_A10302B0004081153A.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_190295745844_A10302B0004081153A.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_190295745844_A10302B0004081153A.html",
+        "subtitleId": "clean-bandit",
+        "album": "Symphony (feat. Zara Larsson)-Remixes",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_190295745844_A10302B0004081153A.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_190295745844",
+            "title": "Symphony (feat. Zara Larsson)-Remixes"
+        },
+        "subtitle": "Clean Bandit - Symphony (feat. Zara Larsson)-Remixes",
+        "htData": [
+            {
+                "vcode": "009172000005435",
+                "cutName": "Symphony Feat Zara Larsson Dash Berlin Remix",
+                "previewUrl": "https://preview-ht.wynk.in/009172000005435.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Symphony (feat. Zara Larsson)-Dash Berlin Remix,Zara Larsson,Clean Bandit,Symphony (feat. Zara Larsson)-Remixes",
+        "artist": {
+            "id": "clean-bandit",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1502359483373",
+            "title": "Clean Bandit",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/london-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "clean-bandit",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1502359483373",
+                "title": "Clean Bandit",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/london-300x300.png"
+            },
+            {
+                "id": "zara-larsson",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1493109630014",
+                "title": "Zara Larsson",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Zara-Larsson-300x300.png"
+            }
+        ],
+        "label": "Atlantic Records UK",
+        "publisher": "Atlantic Records UK",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E00075574486",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E00075574486.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E00075574486.jpg",
+        "shortUrl": "https://wynk.in/u/1Z4t8rAVV",
+        "basicShortUrl": "https://wynktube.in/u/1Z4t8rAVV",
+        "type": "SONG",
+        "title": "Shelter",
+        "exclusive": false,
+        "serverEtag": "0be0cf34adc954726610f9d762331a4d",
+        "duration": 196,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E00075574486.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E00075574486.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E00075574486.html",
+        "subtitleId": "dash-berlin",
+        "album": "Trance 100 - 2015",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E00075574486.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_886445472332",
+            "title": "Trance 100 - 2015"
+        },
+        "subtitle": "Dash Berlin - Trance 100 - 2015",
+        "htData": [
+            {
+                "vcode": "009172100009635",
+                "cutName": "Shelter Photographer Radio Edit",
+                "previewUrl": "https://preview-ht.wynk.in/009172100009635.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "artist": {
+            "id": "dash-berlin",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Dash Berlin"
+        },
+        "singers": [
+            {
+                "id": "dash-berlin",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Dash Berlin"
+            },
+            {
+                "id": "roxanne-emery",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Roxanne Emery"
+            }
+        ],
+        "label": "Armada",
+        "publisher": "Armada",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_hungama_2556738",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_2556738.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_2556738.jpg",
+        "shortUrl": "https://wynk.in/u/JG64vzGhd",
+        "basicShortUrl": "https://wynktube.in/u/JG64vzGhd",
+        "type": "SONG",
+        "title": "Avaritia",
+        "exclusive": false,
+        "serverEtag": "c34a3f4ab979ce42bba77b938b183ef0",
+        "duration": 403,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_hungama_2556738.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_hungama_2556738.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_hungama_2556738.html",
+        "subtitleId": "deadmau5",
+        "album": "Avaritia",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_hungama_2556738.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00883958012888",
+            "title": "Avaritia"
+        },
+        "subtitle": "Deadmau5 - Avaritia",
+        "htData": [
+            {
+                "vcode": "009142600008865",
+                "cutName": "Avaritia",
+                "previewUrl": "https://preview-ht.wynk.in/009142600008865.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "artist": {
+            "id": "deadmau5",
+            "type": "ARTIST",
+            "isCurated": true,
+            "title": "Deadmau5",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Deadmau-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "deadmau5",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Deadmau5",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Deadmau-300x300.png"
+            }
+        ],
+        "label": "℗ 2014 mau5trap Recordings Ltd, under exclusive license to Virgin Records Ltd",
+        "lyricists": [
+            {
+                "id": "deadmau5",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Deadmau5",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Deadmau-300x300.png"
+            }
+        ],
+        "actors": [
+            {
+                "id": "deadmau5",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Deadmau5",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Deadmau-300x300.png"
+            }
+        ],
+        "publisher": "℗ 2014 mau5trap Recordings Ltd, under exclusive license to Virgin Records Ltd",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0006635936F",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006635936F.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006635936F.jpg",
+        "shortUrl": "https://wynk.in/u/Exn1ZHs4o",
+        "basicShortUrl": "https://wynktube.in/u/Exn1ZHs4o",
+        "type": "SONG",
+        "title": "Waiting",
+        "exclusive": false,
+        "serverEtag": "a3fb5dae3819d1c3d4596afea195730f",
+        "duration": 301,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0006635936F.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0006635936F.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0006635936F.html",
+        "subtitleId": "dash-berlin",
+        "album": "A State of Trance - The Expedition - Episode 600",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0006635936F.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_886443983137",
+            "title": "A State of Trance - The Expedition - Episode 600"
+        },
+        "subtitle": "Dash Berlin - A State of Trance - The Expedition - Episode 600",
+        "htData": [
+            {
+                "vcode": "009164800009176",
+                "cutName": "Waiting",
+                "previewUrl": "https://preview-ht.wynk.in/009164800009176.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "A State of Trance - The Expedition - Episode 600,Dash Berlin,Emma Hewitt,Waiting",
+        "artist": {
+            "id": "dash-berlin",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Dash Berlin"
+        },
+        "singers": [
+            {
+                "id": "dash-berlin",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Dash Berlin"
+            },
+            {
+                "id": "emma-hewitt",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Emma Hewitt"
+            }
+        ],
+        "label": "Armada",
+        "publisher": "Armada",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_monstercat_859717917572_CA6D21600233",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859717917572_CA6D21600233.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859717917572_CA6D21600233.jpg",
+        "shortUrl": "https://wynk.in/u/ceTWzdjNJ",
+        "basicShortUrl": "https://wynktube.in/u/ceTWzdjNJ",
+        "type": "SONG",
+        "title": "My Galaxy (feat. Q'AILA)",
+        "exclusive": false,
+        "serverEtag": "18890036cb1f582f5439e86575df25ac",
+        "duration": 291,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_monstercat_859717917572_CA6D21600233.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_monstercat_859717917572_CA6D21600233.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_monstercat_859717917572_CA6D21600233.html",
+        "subtitleId": "eminence",
+        "album": "Hollow Mind EP",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_monstercat_859717917572_CA6D21600233.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_monstercat_859717917572",
+            "title": "Hollow Mind EP"
+        },
+        "subtitle": "Eminence - Hollow Mind EP",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "My Galaxy (feat. Q'AILA),Eminence,Hollow Mind EP",
+        "artist": {
+            "id": "eminence",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Eminence"
+        },
+        "singers": [
+            {
+                "id": "eminence",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Eminence"
+            }
+        ],
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_monstercat_859714747783_CA6D21500231",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859714747783_CA6D21500231.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859714747783_CA6D21500231.jpg",
+        "shortUrl": "https://wynk.in/u/X5cW99vBr",
+        "basicShortUrl": "https://wynktube.in/u/X5cW99vBr",
+        "type": "SONG",
+        "title": "Evaporate (feat. Aloma Steele)",
+        "exclusive": false,
+        "serverEtag": "b9db5cb8338eb769ad19430c69fcad3f",
+        "duration": 327,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_monstercat_859714747783_CA6D21500231.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_monstercat_859714747783_CA6D21500231.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_monstercat_859714747783_CA6D21500231.html",
+        "subtitleId": "trivecta",
+        "album": "Evaporate (feat. Aloma Steele)",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_monstercat_859714747783_CA6D21500231.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_monstercat_859714747783",
+            "title": "Evaporate (feat. Aloma Steele)"
+        },
+        "subtitle": "Trivecta - Evaporate (feat. Aloma Steele)",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "artist": {
+            "id": "trivecta",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Trivecta"
+        },
+        "singers": [
+            {
+                "id": "trivecta",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Trivecta"
+            }
+        ],
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_monstercat_859719120741_CA6D21700009",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859719120741_CA6D21700009.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859719120741_CA6D21700009.jpg",
+        "shortUrl": "https://wynk.in/u/yciVW7gP0",
+        "basicShortUrl": "https://wynktube.in/u/yciVW7gP0",
+        "type": "SONG",
+        "title": "Saving Light (feat. HALIENE)",
+        "exclusive": false,
+        "serverEtag": "8087d8acd97b359b085f50f97ae9fa24",
+        "duration": 275,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_monstercat_859719120741_CA6D21700009.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_monstercat_859719120741_CA6D21700009.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_monstercat_859719120741_CA6D21700009.html",
+        "subtitleId": "gareth-emerystanderwick",
+        "album": "Saving Light (feat. HALIENE)",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_monstercat_859719120741_CA6D21700009.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_monstercat_859719120741",
+            "title": "Saving Light (feat. HALIENE)"
+        },
+        "subtitle": "Gareth Emery,Standerwick - Saving Light (feat. HALIENE)",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Saving Light (feat. HALIENE),Gareth Emery,Standerwick,Gareth Emery,Standerwick",
+        "artist": {
+            "id": "gareth-emerystanderwick",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Gareth Emery,Standerwick"
+        },
+        "singers": [
+            {
+                "id": "gareth-emery",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Gareth Emery"
+            },
+            {
+                "id": "standerwick",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Standerwick"
+            }
+        ],
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_hungama_286253",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_286253.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_286253.jpg",
+        "shortUrl": "https://wynk.in/u/ZdKe1iFZD",
+        "basicShortUrl": "https://wynktube.in/u/ZdKe1iFZD",
+        "type": "SONG",
+        "title": "Mauja Hi Mauja",
+        "exclusive": false,
+        "serverEtag": "5fce4132ccb897156c3dac109c8079bd",
+        "duration": 247,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_hungama_286253.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_hungama_286253.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_hungama_286253.html",
+        "subtitleId": "mika-singh",
+        "album": "Jab We Met",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_hungama_286253.html?ets=true",
+        "contentLang": "hi",
+        "itemContentLang": "hi",
+        "downloadPrice": "5",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_hungama_271592",
+            "title": "Jab We Met"
+        },
+        "subtitle": "Mika Singh - Jab We Met",
+        "htData": [
+            {
+                "vcode": "009142100003171",
+                "cutName": "Mauja Hi Mauja Sp Punj",
+                "previewUrl": "https://preview-ht.wynk.in/009142100003171.wav"
+            },
+            {
+                "vcode": "009113500006332",
+                "cutName": "Mauja Hi Mauja 1",
+                "previewUrl": "https://preview-ht.wynk.in/009113500006332.wav"
+            },
+            {
+                "vcode": "009141400003224",
+                "cutName": "Mauja Hi Mauja",
+                "previewUrl": "https://preview-ht.wynk.in/009141400003224.wav"
+            },
+            {
+                "vcode": "009142100001476",
+                "cutName": "Hud Mauja Hi Mauja",
+                "previewUrl": "https://preview-ht.wynk.in/009142100001476.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "singers": [
+            {
+                "id": "mika-singh",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Mika Singh",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/mika.png"
+            }
+        ],
+        "label": "T-Series",
+        "lyricists": [
+            {
+                "id": "irshad-kamil",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Irshad Kamil",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Irshad-Kamil-1%20(99c8bbb7-02b1-4555-8575-fc0b2c7707e8).png"
+            }
+        ],
+        "actors": [
+            {
+                "id": "kareena-kapoor",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kareena Kapoor"
+            },
+            {
+                "id": "shahid-kapoor",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Shahid Kapoor"
+            }
+        ],
+        "publisher": "T-Series",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_hungama_290780",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_290780.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_290780.jpg",
+        "shortUrl": "https://wynk.in/u/sM9IkwY0X",
+        "basicShortUrl": "https://wynktube.in/u/sM9IkwY0X",
+        "type": "SONG",
+        "title": "Mar Jawaan",
+        "exclusive": false,
+        "serverEtag": "d0a04c5ecea5e79c1b704acc7b50aad4",
+        "duration": 241,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_hungama_290780.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_hungama_290780.html",
+        "subtitleType": "ALBUM",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_hungama_290780.html",
+        "subtitleId": "srch_hungama_272249",
+        "album": "Fashion",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_hungama_290780.html?ets=true",
+        "contentLang": "hi",
+        "itemContentLang": "hi",
+        "downloadPrice": "5.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_hungama_272249",
+            "title": "Fashion"
+        },
+        "subtitle": "Shruti Pathak - Fashion",
+        "htData": [
+            {
+                "vcode": "009116300000484",
+                "cutName": "Mar Javan",
+                "previewUrl": "https://preview-ht.wynk.in/009116300000484.wav"
+            },
+            {
+                "vcode": "009141900006455",
+                "cutName": "Mar Jaava Fashion",
+                "previewUrl": "https://preview-ht.wynk.in/009141900006455.wav"
+            },
+            {
+                "vcode": "009141400003001",
+                "cutName": "Mar Jaava",
+                "previewUrl": "https://preview-ht.wynk.in/009141400003001.wav"
+            },
+            {
+                "vcode": "009141900006459",
+                "cutName": "Mar Jaava Kk Act",
+                "previewUrl": "https://preview-ht.wynk.in/009141900006459.wav"
+            },
+            {
+                "vcode": "009116200004935",
+                "cutName": "Mar Jawaan",
+                "previewUrl": "https://preview-ht.wynk.in/009116200004935.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Priyanka Chopra,Mugdha Godse,Shruti Pathak,Mar Jawaan,Fashion,Harsh Chhaya,Arbaaz Khan,Arjan Bajwa,SalimSulaiman,Irfan Siddique",
+        "singers": [
+            {
+                "id": "shruti-pathak",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Shruti Pathak"
+            }
+        ],
+        "label": "T-Series",
+        "lyricists": [
+            {
+                "id": "irfan-siddique",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Irfan Siddique"
+            }
+        ],
+        "actors": [
+            {
+                "id": "arbaaz-khan",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Arbaaz Khan"
+            },
+            {
+                "id": "arjan-bajwa",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Arjan Bajwa"
+            },
+            {
+                "id": "harsh-chhaya",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Harsh Chhaya"
+            },
+            {
+                "id": "priyanka-chopra",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Priyanka Chopra"
+            },
+            {
+                "id": "mugdha-godse",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Mugdha Godse"
+            }
+        ],
+        "publisher": "T-Series",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_hungama_290781",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_290781.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/srch_hungama_290781.jpg",
+        "shortUrl": "https://wynk.in/u/6dvs5Z0mg",
+        "basicShortUrl": "https://wynktube.in/u/6dvs5Z0mg",
+        "type": "SONG",
+        "title": "Kuch Khaas",
+        "exclusive": false,
+        "serverEtag": "920fb88b53a446f03fae0f8ecb8fcce2",
+        "duration": 303,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_hungama_290781.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_hungama_290781.html",
+        "subtitleType": "ALBUM",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_hungama_290781.html",
+        "subtitleId": "srch_hungama_272249",
+        "album": "Fashion (2008)",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_hungama_290781.html?performance_test=true?ets=true",
+        "contentLang": "hi",
+        "itemContentLang": "hi",
+        "downloadPrice": "5.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_hungama_272249",
+            "title": "Fashion (2008)"
+        },
+        "subtitle": "Mohit Chauhan - Fashion",
+        "htData": [
+            {
+                "vcode": "009116200004366",
+                "cutName": "Aashiyana Mujhko Hai Mila Teri",
+                "previewUrl": "https://preview-ht.wynk.in/009116200004366.wav"
+            },
+            {
+                "vcode": "009141400003446",
+                "cutName": "Kuchh Khaas",
+                "previewUrl": "https://preview-ht.wynk.in/009141400003446.wav"
+            },
+            {
+                "vcode": "009116200004403",
+                "cutName": "Kuchh Khaas Hai Kuchh Pass Hai",
+                "previewUrl": "https://preview-ht.wynk.in/009116200004403.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Kuch Khaas,Priyanka Chopra,Neha Bhasin,Mohit Chauhan,Arbaaz Khan,Arjan Bajwa,SalimSulaiman,Fashion (2008),Irfan Siddique",
+        "singers": [
+            {
+                "id": "mohit-chauhan",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Mohit Chauhan"
+            },
+            {
+                "id": "neha-bhasin",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Neha Bhasin"
+            }
+        ],
+        "label": "T-Series",
+        "lyricists": [
+            {
+                "id": "irfan-siddique",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Irfan Siddique"
+            }
+        ],
+        "actors": [
+            {
+                "id": "priyanka-chopra",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Priyanka Chopra"
+            },
+            {
+                "id": "arbaaz-khan",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Arbaaz Khan"
+            },
+            {
+                "id": "arjan-bajwa",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Arjan Bajwa"
+            }
+        ],
+        "publisher": "T-Series",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_saregama_INH100600433",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/1440685461436/srch_saregama_INH100600433.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/1440685461436/srch_saregama_INH100600433.jpg",
+        "shortUrl": "https://wynk.in/u/jun8EfFZY",
+        "basicShortUrl": "https://wynktube.in/u/jun8EfFZY",
+        "type": "SONG",
+        "title": "Meter Down",
+        "exclusive": false,
+        "serverEtag": "b18df3a683203a401d391d13e0c057b9",
+        "duration": 192,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_saregama_INH100600433.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_saregama_INH100600433.html",
+        "subtitleType": "ALBUM",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_saregama_INH100600433.html",
+        "subtitleId": "srch_saregama_8907210023862",
+        "album": "TAXI NO. 9211",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_saregama_INH100600433.html?ets=true",
+        "contentLang": "hi",
+        "itemContentLang": "hi",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_saregama_8907210023862",
+            "title": "TAXI NO. 9211"
+        },
+        "subtitle": "Adnan Sami - TAXI NO. 9211",
+        "htData": [
+            {
+                "vcode": "009153000004877",
+                "cutName": "Meter Down Taxi No 9211",
+                "previewUrl": "https://preview-ht.wynk.in/009153000004877.wav"
+            },
+            {
+                "vcode": "009152900003013",
+                "cutName": "Meter Down Down",
+                "previewUrl": "https://preview-ht.wynk.in/009152900003013.wav"
+            },
+            {
+                "vcode": "009155100000599",
+                "cutName": "Meter Down Remix",
+                "previewUrl": "https://preview-ht.wynk.in/009155100000599.wav"
+            },
+            {
+                "vcode": "009110200003646",
+                "cutName": "Meter Down",
+                "previewUrl": "https://preview-ht.wynk.in/009110200003646.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": false,
+        "keywords": "TAXI NO. 9211,Nana Patekar,John Abraham,VishalShekhar,Vishal Dadlani,Meter Down,Merriene,Adnan Sami,Nimosa",
+        "singers": [
+            {
+                "id": "adnan-sami",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1399961362545",
+                "title": "Adnan Sami",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/adnan-sami.png"
+            },
+            {
+                "id": "merriene",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Merriene"
+            },
+            {
+                "id": "nimosa",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Nimosa"
+            }
+        ],
+        "label": "Saregama",
+        "lyricists": [
+            {
+                "id": "vishal-dadlani",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1416303465016",
+                "title": "Vishal Dadlani",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/vishal.jpg"
+            }
+        ],
+        "actors": [
+            {
+                "id": "nana-patekar",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Nana Patekar"
+            },
+            {
+                "id": "john-abraham",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "John Abraham"
+            }
+        ],
+        "publisher": "Saregama",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_universalmusic_00602547384027-DEUM71501245",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_universalmusic_00602547384027-DEUM71501245.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_universalmusic_00602547384027-DEUM71501245.jpg",
+        "shortUrl": "https://wynk.in/u/KkSr4Rkko",
+        "basicShortUrl": "https://wynktube.in/u/KkSr4Rkko",
+        "type": "SONG",
+        "title": "Ain't Nobody (Loves Me Better)",
+        "exclusive": false,
+        "serverEtag": "f036455f389cd8a723b890eeb02cd76a",
+        "duration": 248,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602547384027-DEUM71501245.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602547384027-DEUM71501245.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602547384027-DEUM71501245.html",
+        "subtitleId": "felix-jaehnjasmine-thompson",
+        "album": "Ain't Nobody (Loves Me Better)",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602547384027-DEUM71501245.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602547384027",
+            "title": "Ain't Nobody (Loves Me Better)"
+        },
+        "subtitle": "Felix Jaehn,Jasmine Thompson - Ain't Nobody (Loves Me Better)",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Ain't Nobody (Loves Me Better),Felix Jaehn,David Wolinski,Felix Jaehn,Jasmine Thompson,Jasmine Thompson",
+        "artist": {
+            "id": "felix-jaehnjasmine-thompson",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Felix Jaehn,Jasmine Thompson"
+        },
+        "singers": [
+            {
+                "id": "felix-jaehn",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Felix Jaehn"
+            },
+            {
+                "id": "jasmine-thompson",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Jasmine Thompson"
+            }
+        ],
+        "label": "A Virgin Records recording; ℗ 2015 L'Agentur, under exclusive license to Universal Music GmbH",
+        "publisher": "A Virgin Records recording; ℗ 2015 L'Agentur, under exclusive license to Universal Music GmbH",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_A10302B0003039575G",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_A10302B0003039575G.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_A10302B0003039575G.jpg",
+        "shortUrl": "https://wynk.in/u/yZuu3K8n8",
+        "basicShortUrl": "https://wynktube.in/u/yZuu3K8n8",
+        "type": "SONG",
+        "title": "Sugar (feat. Francesco Yates)",
+        "exclusive": false,
+        "serverEtag": "a7cb8fe148d12d951f0b7ec69ce4d19f",
+        "duration": 219,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_A10302B0003039575G.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_A10302B0003039575G.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_A10302B0003039575G.html",
+        "subtitleId": "robin-schulzfrancesco-yates",
+        "album": "Sugar (feat. Francesco Yates)",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_A10302B0003039575G.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_825646045839",
+            "title": "Sugar (feat. Francesco Yates)"
+        },
+        "subtitle": "Robin Schulz,Francesco Yates - Sugar (feat. Francesco Yates)",
+        "htData": [
+            {
+                "vcode": "009170700000299",
+                "cutName": "Sugar Feat Francesco Yates",
+                "previewUrl": "https://preview-ht.wynk.in/009170700000299.wav"
+            },
+            {
+                "vcode": "009171600006928",
+                "cutName": "Sugar Feat Francesco Yates",
+                "previewUrl": "https://preview-ht.wynk.in/009171600006928.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Francesco Yates,Sugar (feat. Francesco Yates),Robin Schulz,Francesco Yates,Robin Schulz",
+        "artist": {
+            "id": "robin-schulzfrancesco-yates",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Robin Schulz,Francesco Yates"
+        },
+        "singers": [
+            {
+                "id": "robin-schulz",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Robin Schulz"
+            },
+            {
+                "id": "francesco-yates",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Francesco Yates"
+            }
+        ],
+        "label": "Tonspiel",
+        "publisher": "Tonspiel",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0008778819L",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0008778819L.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0008778819L.jpg",
+        "shortUrl": "https://wynk.in/u/XTdAs8vB4",
+        "basicShortUrl": "https://wynktube.in/u/XTdAs8vB4",
+        "type": "SONG",
+        "title": "Darkside",
+        "exclusive": false,
+        "serverEtag": "5c732c5b7bc925bf466ff2419e1e3673",
+        "duration": 211,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0008778819L.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0008778819L.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0008778819L.html",
+        "subtitleId": "alan-walkertomine-harketaura",
+        "album": "Darkside",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0008778819L.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_886447219355",
+            "title": "Darkside"
+        },
+        "subtitle": "Alan Walker,Tomine Harket,AuRa - Darkside",
+        "htData": [
+            {
+                "vcode": "009165600007050",
+                "cutName": "Darkside",
+                "previewUrl": "https://preview-ht.wynk.in/009165600007050.wav"
+            },
+            {
+                "vcode": "009165600007052",
+                "cutName": "We Are Not In Love Darkside",
+                "previewUrl": "https://preview-ht.wynk.in/009165600007052.wav"
+            },
+            {
+                "vcode": "009165600007032",
+                "cutName": "Fall Into The Darkside",
+                "previewUrl": "https://preview-ht.wynk.in/009165600007032.wav"
+            },
+            {
+                "vcode": "009165600006333",
+                "cutName": "Beneath The Sky Darkside",
+                "previewUrl": "https://preview-ht.wynk.in/009165600006333.wav"
+            },
+            {
+                "vcode": "009165600007053",
+                "cutName": "Believe It I See It Darkside",
+                "previewUrl": "https://preview-ht.wynk.in/009165600007053.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Tomine Harket,Alan Walker,Tomine Harket,AuRa,Darkside,AuRa,Alan Walker",
+        "artist": {
+            "id": "alan-walkertomine-harketaura",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Alan Walker,Tomine Harket,AuRa"
+        },
+        "singers": [
+            {
+                "id": "alan-walker",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Alan Walker"
+            },
+            {
+                "id": "tomine-harket",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Tomine Harket"
+            },
+            {
+                "id": "aura",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "AuRa"
+            }
+        ],
+        "label": "MER Recordings",
+        "publisher": "MER Recordings",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E00063526185",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E00063526185.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E00063526185.jpg",
+        "shortUrl": "https://wynk.in/u/ntNNX7zkW",
+        "basicShortUrl": "https://wynktube.in/u/ntNNX7zkW",
+        "type": "SONG",
+        "title": "Dynasty",
+        "exclusive": false,
+        "serverEtag": "84b1354fb6bcc3bd2fb4a6e135a3e705",
+        "duration": 379,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E00063526185.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E00063526185.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E00063526185.html",
+        "subtitleId": "kaskade",
+        "album": "Dynasty",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E00063526185.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_617465260650",
+            "title": "Dynasty"
+        },
+        "subtitle": "Kaskade - Dynasty",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Kaskade,Dynasty",
+        "artist": {
+            "id": "kaskade",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kaskade"
+        },
+        "singers": [
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            }
+        ],
+        "label": "Ultra Records, LLC",
+        "publisher": "Ultra Records, LLC",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_8712944539721_A10302B0004348970J",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_8712944539721_A10302B0004348970J.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_8712944539721_A10302B0004348970J.jpg",
+        "shortUrl": "https://wynk.in/u/MKyajpCaW",
+        "basicShortUrl": "https://wynktube.in/u/MKyajpCaW",
+        "type": "SONG",
+        "title": "Need To Feel Loved",
+        "exclusive": false,
+        "serverEtag": "a3c55cc88e885a1d6cff8fbf2d7194d8",
+        "duration": 224,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_8712944539721_A10302B0004348970J.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_8712944539721_A10302B0004348970J.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_8712944539721_A10302B0004348970J.html",
+        "subtitleId": "sander-van-doornlvndscape",
+        "album": "Need To Feel Loved",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_8712944539721_A10302B0004348970J.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_8712944539721",
+            "title": "Need To Feel Loved"
+        },
+        "subtitle": "Sander Van Doorn,LVNDSCAPE - Need To Feel Loved",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Sander Van Doorn,LVNDSCAPE,LVNDSCAPE,Need To Feel Loved,Sander Van Doorn",
+        "artist": {
+            "id": "sander-van-doornlvndscape",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Sander Van Doorn,LVNDSCAPE"
+        },
+        "singers": [
+            {
+                "id": "sander-van-doorn",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Sander Van Doorn"
+            },
+            {
+                "id": "lvndscape",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "LVNDSCAPE"
+            }
+        ],
+        "label": "Doorn Records",
+        "publisher": "Doorn Records",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_universalmusic_00602567796626-GBUM71605276",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1530096053/srch_universalmusic_00602567796626-GBUM71605276.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1530096053/srch_universalmusic_00602567796626-GBUM71605276.jpg",
+        "shortUrl": "https://wynk.in/u/aYswsSVds",
+        "basicShortUrl": "https://wynktube.in/u/aYswsSVds",
+        "type": "SONG",
+        "title": "Bad Love",
+        "exclusive": false,
+        "serverEtag": "70366c4714880c739e29a89766547cc2",
+        "duration": 214,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602567796626-GBUM71605276.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602567796626-GBUM71605276.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602567796626-GBUM71605276.html",
+        "subtitleId": "sean-paul",
+        "album": "Mad Love The Prequel",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602567796626-GBUM71605276.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602567796626",
+            "title": "Mad Love The Prequel"
+        },
+        "subtitle": "Sean Paul - Mad Love The Prequel",
+        "htData": [
+            {
+                "vcode": "009170500003474",
+                "cutName": "Bad Love",
+                "previewUrl": "https://preview-ht.wynk.in/009170500003474.wav"
+            },
+            {
+                "vcode": "009170500003504",
+                "cutName": "Bad Love Hook",
+                "previewUrl": "https://preview-ht.wynk.in/009170500003504.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Bad Love,Sean Paul,Mad Love The Prequel,Anastasia Whiteacre,Ellie Goulding",
+        "artist": {
+            "id": "sean-paul",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1517562998441",
+            "title": "Sean Paul",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "sean-paul",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1517562998441",
+                "title": "Sean Paul",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/seann-paul-300x300.png"
+            },
+            {
+                "id": "ellie-goulding",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1397642957930",
+                "title": "Ellie Goulding",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/ellie-gouldin2-300x300%20(1).png"
+            }
+        ],
+        "label": "An Island Records Recording; ℗ 2018 SPJ Productions Ltd, under exclusive licence to Universal Music Operations Limited",
+        "publisher": "An Island Records Recording; ℗ 2018 SPJ Productions Ltd, under exclusive licence to Universal Music Operations Limited",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_universalmusic_00602547770769-GBHPU0400001",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1451542259/srch_universalmusic_00602547770769-GBHPU0400001.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1451542259/srch_universalmusic_00602547770769-GBHPU0400001.jpg",
+        "shortUrl": "https://wynk.in/u/tSTBIBcGo",
+        "basicShortUrl": "https://wynktube.in/u/tSTBIBcGo",
+        "type": "SONG",
+        "title": "Need To Feel Loved",
+        "exclusive": false,
+        "serverEtag": "cecc67d05b54b11919585316a04753d8",
+        "duration": 192,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_universalmusic_00602547770769-GBHPU0400001.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_universalmusic_00602547770769-GBHPU0400001.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_universalmusic_00602547770769-GBHPU0400001.html",
+        "subtitleId": "reflekt",
+        "album": "The Workout Mix - Beach Fit",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_universalmusic_00602547770769-GBHPU0400001.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602547770769",
+            "title": "The Workout Mix - Beach Fit"
+        },
+        "subtitle": "Reflekt - The Workout Mix - Beach Fit",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Thomas Newman,Delline Bass,Need To Feel Loved,The Workout Mix - Beach Fit,Reflekt",
+        "artist": {
+            "id": "reflekt",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Reflekt"
+        },
+        "singers": [
+            {
+                "id": "reflekt",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Reflekt"
+            },
+            {
+                "id": "delline-bass",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Delline Bass"
+            }
+        ],
+        "label": "℗ 2004 Spot On Records Ltd",
+        "publisher": "℗ 2004 Spot On Records Ltd",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_190295624286_A10302B00044428070",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_190295624286_A10302B00044428070.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_190295624286_A10302B00044428070.jpg",
+        "shortUrl": "https://wynk.in/u/DGiAONL7o",
+        "basicShortUrl": "https://wynktube.in/u/DGiAONL7o",
+        "type": "SONG",
+        "title": "Solo (feat. Demi Lovato)",
+        "exclusive": false,
+        "serverEtag": "ea6fdbc89f2b464a86c1e27f39bf546f",
+        "duration": 222,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": true,
+        "downloadUrl": "http://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_190295624286_A10302B00044428070.html",
+        "videoId": "8JnfIa84TnU",
+        "cues": [
+            ""
+        ],
+        "purchaseUrl": "http://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_190295624286_A10302B00044428070.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "http://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_190295624286_A10302B00044428070.html",
+        "subtitleId": "clean-bandit",
+        "album": "Solo (feat. Demi Lovato)",
+        "ostreamingUrl": "http://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_190295624286_A10302B00044428070.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_190295624286",
+            "title": "Solo (feat. Demi Lovato)"
+        },
+        "subtitle": "Clean Bandit - Solo (feat. Demi Lovato)",
+        "ytImage": "http://s3-ap-southeast-1.amazonaws.com/twanganalytics-dev/music/1547119398/srch_timewarner_190295624286_A10302B00044428070.jpg",
+        "htData": [
+            {
+                "vcode": "009165300004706",
+                "cutName": "Since You Have Been Gone Solo",
+                "previewUrl": "https://preview-ht.wynk.in/009165300004706.wav"
+            },
+            {
+                "vcode": "009165300004939",
+                "cutName": "Solo",
+                "previewUrl": "https://preview-ht.wynk.in/009165300004939.wav"
+            },
+            {
+                "vcode": "009165300004933",
+                "cutName": "Never Meant To Leave You Solo",
+                "previewUrl": "https://preview-ht.wynk.in/009165300004933.wav"
+            },
+            {
+                "vcode": "009165300004938",
+                "cutName": "Every Single Night Solo",
+                "previewUrl": "https://preview-ht.wynk.in/009165300004938.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "artist": {
+            "id": "clean-bandit",
+            "type": "ARTIST",
+            "isCurated": true,
+            "title": "Clean Bandit",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/london-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "clean-bandit",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Clean Bandit",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/london-300x300.png"
+            },
+            {
+                "id": "demi-lovato",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Demi Lovato"
+            }
+        ],
+        "label": "Atlantic Records UK",
+        "publisher": "Atlantic Records UK",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_monstercat_859718896401_CA6D21600308",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859718896401_CA6D21600308.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859718896401_CA6D21600308.jpg",
+        "shortUrl": "https://wynk.in/u/SWwbar7zu",
+        "basicShortUrl": "https://wynktube.in/u/SWwbar7zu",
+        "type": "SONG",
+        "title": "Rare",
+        "exclusive": false,
+        "serverEtag": "94ee1e6f00b3646ca2ce90d582fe429d",
+        "duration": 247,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_monstercat_859718896401_CA6D21600308.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_monstercat_859718896401_CA6D21600308.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_monstercat_859718896401_CA6D21600308.html",
+        "subtitleId": "going-quantum",
+        "album": "Monstercat - Best of 2016",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_monstercat_859718896401_CA6D21600308.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_monstercat_859718896401",
+            "title": "Monstercat - Best of 2016"
+        },
+        "subtitle": "Going Quantum - Monstercat - Best of 2016",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "artist": {
+            "id": "going-quantum",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Going Quantum"
+        },
+        "singers": [
+            {
+                "id": "going-quantum",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Going Quantum"
+            },
+            {
+                "id": "psychic-type",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Psychic Type"
+            }
+        ],
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_monstercat_859718895862_CA6D21500339",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859718895862_CA6D21500339.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_monstercat/music/srch_monstercat_859718895862_CA6D21500339.jpg",
+        "shortUrl": "https://wynk.in/u/oZRj8dOrz",
+        "basicShortUrl": "https://wynktube.in/u/oZRj8dOrz",
+        "type": "SONG",
+        "title": "Heist",
+        "exclusive": false,
+        "serverEtag": "a84165da90ac27b65ceb7ba7e5ebba21",
+        "duration": 182,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_monstercat_859718895862_CA6D21500339.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_monstercat_859718895862_CA6D21500339.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_monstercat_859718895862_CA6D21500339.html",
+        "subtitleId": "noisestorm",
+        "album": "Monstercat - Best of Trap",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_monstercat_859718895862_CA6D21500339.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_monstercat_859718895862",
+            "title": "Monstercat - Best of Trap"
+        },
+        "subtitle": "Noisestorm - Monstercat - Best of Trap",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Monstercat - Best of Trap,Noisestorm,Heist",
+        "artist": {
+            "id": "noisestorm",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Noisestorm"
+        },
+        "singers": [
+            {
+                "id": "noisestorm",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Noisestorm"
+            }
+        ],
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E00077513054",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/update/1462825500012/srch_sonymusic_A10328E00077513054.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/update/1462825500012/srch_sonymusic_A10328E00077513054.jpg",
+        "shortUrl": "https://wynk.in/u/4WbnMWBt7",
+        "basicShortUrl": "https://wynktube.in/u/4WbnMWBt7",
+        "type": "SONG",
+        "title": "Me Too",
+        "exclusive": false,
+        "serverEtag": "da4af9f6fe5b05ff4d74f310d59fa3d2",
+        "duration": 181,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E00077513054.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E00077513054.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E00077513054.html",
+        "subtitleId": "meghan-trainor",
+        "album": "Me Too",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E00077513054.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_886445895988",
+            "title": "Me Too"
+        },
+        "subtitle": "Meghan Trainor - Me Too",
+        "htData": [
+            {
+                "vcode": "009154500007744",
+                "cutName": "Me Too",
+                "previewUrl": "https://preview-ht.wynk.in/009154500007744.wav"
+            },
+            {
+                "vcode": "009154500007715",
+                "cutName": "I Cant Help Lovin Myself",
+                "previewUrl": "https://preview-ht.wynk.in/009154500007715.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "artist": {
+            "id": "meghan-trainor",
+            "type": "ARTIST",
+            "isCurated": true,
+            "title": "Meghan Trainor",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Meghan-Trainor-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "meghan-trainor",
+                "type": "ARTIST",
+                "isCurated": true,
+                "title": "Meghan Trainor",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Meghan-Trainor-300x300.png"
+            }
+        ],
+        "label": "Epic",
+        "publisher": "Epic",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10301A0002942943C",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10301A0002942943C.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10301A0002942943C.jpg",
+        "shortUrl": "https://wynk.in/u/08upZGGgT",
+        "basicShortUrl": "https://wynktube.in/u/08upZGGgT",
+        "type": "SONG",
+        "title": "Lick It",
+        "exclusive": false,
+        "serverEtag": "ec7888ad49d24997cc5daf96ca27c4a0",
+        "duration": 360,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10301A0002942943C.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10301A0002942943C.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10301A0002942943C.html",
+        "subtitleId": "kaskade",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10301A0002942943C.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": ""
+        },
+        "subtitle": "Kaskade",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Kaskade,Lick It,Skrillex",
+        "artist": {
+            "id": "kaskade",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kaskade"
+        },
+        "singers": [
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            },
+            {
+                "id": "skrillex",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1518601754922",
+                "title": "Skrillex",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Skrillex-300x300.png"
+            }
+        ],
+        "label": "Ultra Records, LLC",
+        "publisher": "Ultra Records, LLC",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0006482219L",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006482219L.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006482219L.jpg",
+        "shortUrl": "https://wynk.in/u/gc9zRjAgE",
+        "basicShortUrl": "https://wynktube.in/u/gc9zRjAgE",
+        "type": "SONG",
+        "title": "Step One Two",
+        "exclusive": false,
+        "serverEtag": "a379a5cc301d61f9b511330913ed3e12",
+        "duration": 270,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0006482219L.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0006482219L.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0006482219L.html",
+        "subtitleId": "kaskade",
+        "album": "The Grand",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0006482219L.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_617465207259",
+            "title": "The Grand"
+        },
+        "subtitle": "Kaskade - The Grand",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "The Grand,Kaskade,Step One Two",
+        "artist": {
+            "id": "kaskade",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kaskade"
+        },
+        "singers": [
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            }
+        ],
+        "label": "Ultra Records, LLC",
+        "publisher": "Ultra Records, LLC",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_hungama_2223584",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_hungama_2223584.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/srch_hungama_2223584.jpg",
+        "shortUrl": "https://wynk.in/u/NFSr9koTp",
+        "basicShortUrl": "https://wynktube.in/u/NFSr9koTp",
+        "type": "SONG",
+        "title": "Dynamite",
+        "exclusive": false,
+        "serverEtag": "c417b3102483bd7eb381629c907ce1de",
+        "duration": 203,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_hungama_2223584.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_hungama_2223584.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_hungama_2223584.html",
+        "subtitleId": "taio-cruz",
+        "album": "Rokstarr",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_hungama_2223584.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "15.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_universalmusic_00602527603704",
+            "title": "Rokstarr"
+        },
+        "subtitle": "Taio Cruz - Rokstarr",
+        "htData": [
+            {
+                "vcode": "009149000007378",
+                "cutName": "Dynamite",
+                "previewUrl": "https://preview-ht.wynk.in/009149000007378.wav"
+            },
+            {
+                "vcode": "009145000000906",
+                "cutName": "Rockin All Over The World",
+                "previewUrl": "https://preview-ht.wynk.in/009145000000906.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Taio Cruz,Dynamite,Rokstarr",
+        "artist": {
+            "id": "taio-cruz",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Taio Cruz"
+        },
+        "singers": [
+            {
+                "id": "taio-cruz",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Taio Cruz"
+            }
+        ],
+        "label": "℗ 2010 Universal Island Records Ltd. A Universal Music Company.",
+        "lyricists": [
+            {
+                "id": "taio-cruz",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Taio Cruz"
+            }
+        ],
+        "actors": [
+            {
+                "id": "taio-cruz",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Taio Cruz"
+            }
+        ],
+        "publisher": "℗ 2010 Universal Island Records Ltd. A Universal Music Company.",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0006352415N",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006352415N.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006352415N.jpg",
+        "shortUrl": "https://wynk.in/u/PSMec9IjZ",
+        "basicShortUrl": "https://wynktube.in/u/PSMec9IjZ",
+        "type": "SONG",
+        "title": "Move for Me",
+        "exclusive": false,
+        "serverEtag": "b3224134c54434dc125f28db7944c32a",
+        "duration": 468,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0006352415N.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0006352415N.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0006352415N.html",
+        "subtitleId": "deadmau5",
+        "album": "Move For Me",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0006352415N.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_617465180255",
+            "title": "Move For Me"
+        },
+        "subtitle": "Deadmau5 - Move For Me",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Move For Me,Kaskade,Move for Me,Deadmau5",
+        "artist": {
+            "id": "deadmau5",
+            "type": "ARTIST",
+            "isCurated": true,
+            "packageId": "srch_bsb_1525773323768",
+            "title": "Deadmau5",
+            "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Deadmau-300x300.png"
+        },
+        "singers": [
+            {
+                "id": "deadmau5",
+                "type": "ARTIST",
+                "isCurated": true,
+                "packageId": "srch_bsb_1525773323768",
+                "title": "Deadmau5",
+                "smallImage": "http://img.wynk.in/unsafe/50x50/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/package/Deadmau-300x300.png"
+            },
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            }
+        ],
+        "label": "Ultra Records, LLC",
+        "publisher": "Ultra Records, LLC",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0006367655T",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006367655T.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006367655T.jpg",
+        "shortUrl": "https://wynk.in/u/VQd4tnAv4",
+        "basicShortUrl": "https://wynktube.in/u/VQd4tnAv4",
+        "type": "SONG",
+        "title": "Fire in Your New Shoes",
+        "exclusive": false,
+        "serverEtag": "465a98bd030ef10e9277fc30fde8ac1d",
+        "duration": 159,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0006367655T.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0006367655T.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0006367655T.html",
+        "subtitleId": "kaskade",
+        "album": "Fire in Your New Shoes",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0006367655T.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_617465244155",
+            "title": "Fire in Your New Shoes"
+        },
+        "subtitle": "Kaskade - Fire in Your New Shoes",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Fire in Your New Shoes,Kaskade,Martina Sorbara",
+        "artist": {
+            "id": "kaskade",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kaskade"
+        },
+        "singers": [
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            },
+            {
+                "id": "martina-sorbara",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Martina Sorbara"
+            }
+        ],
+        "label": "Sony Music Special Projects",
+        "publisher": "Sony Music Special Projects",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E00063652134",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E00063652134.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E00063652134.jpg",
+        "shortUrl": "https://wynk.in/u/xi0Cxbn8h",
+        "basicShortUrl": "https://wynktube.in/u/xi0Cxbn8h",
+        "type": "SONG",
+        "title": "Dynasty",
+        "exclusive": false,
+        "serverEtag": "a6c9dddf9ea99d2185119321e577b582",
+        "duration": 480,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E00063652134.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E00063652134.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E00063652134.html",
+        "subtitleId": "kaskade",
+        "album": "Dynasty (feat. Haley)",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E00063652134.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_617465249556",
+            "title": "Dynasty (feat. Haley)"
+        },
+        "subtitle": "Kaskade - Dynasty (feat. Haley)",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Haley,Kaskade,Dynasty (feat. Haley),Dynasty",
+        "artist": {
+            "id": "kaskade",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kaskade"
+        },
+        "singers": [
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            },
+            {
+                "id": "haley",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Haley"
+            }
+        ],
+        "label": "Ultra Records, LLC",
+        "publisher": "Ultra Records, LLC",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_timewarner_A10302B0002921065K",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_A10302B0002921065K.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_timewarner/music/srch_timewarner_A10302B0002921065K.jpg",
+        "shortUrl": "https://wynk.in/u/VA6tQfgOC",
+        "basicShortUrl": "https://wynktube.in/u/VA6tQfgOC",
+        "type": "SONG",
+        "title": "Never Sleep Alone (feat. Tess Comrie)",
+        "exclusive": false,
+        "serverEtag": "f7fea1a611d39b52e9c14942935c83cd",
+        "duration": 224,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_timewarner_A10302B0002921065K.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_timewarner_A10302B0002921065K.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_timewarner_A10302B0002921065K.html",
+        "subtitleId": "kaskadetess-comrie",
+        "album": "Automatic",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_timewarner_A10302B0002921065K.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10.0",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_timewarner_093624927723",
+            "title": "Automatic"
+        },
+        "subtitle": "Kaskade,Tess Comrie - Automatic",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "Kaskade,Kaskade,Tess Comrie,Tess Comrie,Never Sleep Alone (feat. Tess Comrie),Automatic",
+        "artist": {
+            "id": "kaskadetess-comrie",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kaskade,Tess Comrie"
+        },
+        "singers": [
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            },
+            {
+                "id": "tess-comrie",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Tess Comrie"
+            }
+        ],
+        "label": "Rhino",
+        "publisher": "Rhino",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0006482217P",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006482217P.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006482217P.jpg",
+        "shortUrl": "https://wynk.in/u/bna7WOVUK",
+        "basicShortUrl": "https://wynktube.in/u/bna7WOVUK",
+        "type": "SONG",
+        "title": "Angel On My Shoulder",
+        "exclusive": false,
+        "serverEtag": "da10c7197a2ad4b61331030362dd2e9b",
+        "duration": 287,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0006482217P.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0006482217P.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0006482217P.html",
+        "subtitleId": "tamra",
+        "album": "The Grand",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0006482217P.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_617465207259",
+            "title": "The Grand"
+        },
+        "subtitle": "Tamra - The Grand",
+        "htData": [
+            {
+                "vcode": "009164600007351",
+                "cutName": "Angel On My Shoulder",
+                "previewUrl": "https://preview-ht.wynk.in/009164600007351.wav"
+            }
+        ],
+        "count": 0,
+        "isHt": true,
+        "keywords": "Angel On My Shoulder,The Grand,Tamra,Kaskade",
+        "artist": {
+            "id": "tamra",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Tamra"
+        },
+        "singers": [
+            {
+                "id": "tamra",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Tamra"
+            },
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            }
+        ],
+        "label": "Ultra Records, LLC",
+        "publisher": "Ultra Records, LLC",
+        "lyrics_avl": "NONE"
+    },
+    {
+        "id": "srch_sonymusic_A10328E0006352328N",
+        "largeImage": "http://img.wynk.in/unsafe/320x180/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006352328N.jpg",
+        "smallImage": "http://img.wynk.in/unsafe/120x120/top/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/srch_sonymusic_A10328E0006352328N.jpg",
+        "shortUrl": "https://wynk.in/u/tXy9FzVpW",
+        "basicShortUrl": "https://wynktube.in/u/tXy9FzVpW",
+        "type": "SONG",
+        "title": "4 AM",
+        "exclusive": false,
+        "serverEtag": "802b0987b7c4340084545d31c03e14dc",
+        "duration": 329,
+        "formats": [
+            "hd",
+            "h",
+            "m",
+            "l"
+        ],
+        "videoPresent": false,
+        "downloadUrl": "https://api.wynk.in/music/v1/cdcgw/song/srch_sonymusic_A10328E0006352328N.html",
+        "purchaseUrl": "https://api.wynk.in/music/v1/cdcurl/song/srch_sonymusic_A10328E0006352328N.html",
+        "subtitleType": "ARTIST",
+        "rentUrl": "https://playback.wynk.in/streaming/v4/crcgw/srch_sonymusic_A10328E0006352328N.html",
+        "subtitleId": "kaskade",
+        "album": "4 AM",
+        "ostreamingUrl": "https://playback.wynk.in/streaming/v4/cscgw/srch_sonymusic_A10328E0006352328N.html?ets=true",
+        "contentLang": "en",
+        "itemContentLang": "en",
+        "downloadPrice": "10",
+        "contentState": "LIVE",
+        "albumRef": {
+            "id": "srch_sonymusic_617465173356",
+            "title": "4 AM"
+        },
+        "subtitle": "Kaskade - 4 AM",
+        "htData": [],
+        "count": 0,
+        "isHt": false,
+        "keywords": "4 AM,Kaskade",
+        "artist": {
+            "id": "kaskade",
+            "type": "ARTIST",
+            "isCurated": false,
+            "title": "Kaskade"
+        },
+        "singers": [
+            {
+                "id": "kaskade",
+                "type": "ARTIST",
+                "isCurated": false,
+                "title": "Kaskade"
+            }
+        ],
+        "label": "Ultra Records, LLC",
+        "publisher": "Ultra Records, LLC",
+        "lyrics_avl": "NONE"
+    }
+]
