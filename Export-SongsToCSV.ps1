@@ -12,6 +12,9 @@ for($i = 0; $i -lt $FilesCount; $i++) {
     Write-Output "Getting Song Data from $FileName..."
     try{
         $Songs = Get-Content -Path "$($ItemsDirectory)\$FileName" | ConvertFrom-Json -ErrorAction Stop
+        if ($Songs.GetType().BaseType.Name -eq "Object") {
+            $Songs = $Songs.items
+        }
     }
     catch {
         Write-Output "$FileName is not a valid Json..."
