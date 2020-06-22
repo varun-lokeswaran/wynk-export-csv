@@ -1,7 +1,7 @@
 # Wynk Export to CSV
 Export all your Wynk songs list Json into CSV which can then be plugged into TuneMyMusic for importing into other platforms like Spotify/Youtube Music
 
-# Steps to pull out playlists/songs Json from Wynk and export it into a useful CSV file:
+## Steps to pull out playlists/songs Json from Wynk and export it into a useful CSV file:
 * **Step 1:** Log in to Wynk Web Application(https://wynk.in/)
 * **Step 2:** Go to the playlist you want to import
 * **Step 3:** In your browser, open the Developer Tools(F12 should work)
